@@ -1,7 +1,7 @@
 # EdgeOne Monitoring Dashboard (EdgeOne 监控大屏)
 
 > [!WARNING]
-> 注意：目前仅支持统计全球（含中国大陆）流量数据
+> 注意：目前仅支持统计国内版EdgeOne的数据，因为海外版API（edgeone.ai）不同，但应该也可以更改 `baseurl` 来解决
 
 这是一个基于 Tencent Cloud EdgeOne API 构建的实时监控大屏，旨在提供直观的流量和请求分析。
 
