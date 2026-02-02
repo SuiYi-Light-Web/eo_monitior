@@ -605,4 +605,3 @@ app.get('/traffic', async (req, res) => {
 });
 
 export default app;
-Footer
